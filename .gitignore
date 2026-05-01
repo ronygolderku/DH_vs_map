@@ -5,9 +5,7 @@
 .vscode/
 
 # Generated leaflet/htmlwidgets output
-index.html
 index_files/
-map_files/
 map_files_*/
 
 # Generated local cache
