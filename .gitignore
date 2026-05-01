@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.vscode/
+
+# Generated leaflet/htmlwidgets output
+index.html
+index_files/
+map_files/
+map_files_*/
+
+# Generated local cache
+mangroves_model_boundary_simplified_15m.rds
